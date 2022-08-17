@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: Stromrechnung">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/ProzentualeErhoehung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Wurzeltest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Binaerdarstellung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Farbe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ProzentualeErhoehung">
-    <configuration name="ProzentualeErhoehung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.ProzentualeErhoehung" />
+}</component>
+  <component name="RunManager" selected="Application.AufsteigendeZahl">
+    <configuration name="AufsteigendeZahl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.AufsteigendeZahl" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +60,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stromrechnung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Stromrechnung" />
+    <configuration name="Binaerdarstellung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Binaerdarstellung" />
+      <module name="EPR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Farbe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Farbe" />
+      <module name="EPR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProzentualeErhoehung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.ProzentualeErhoehung" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -86,9 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AufsteigendeZahl" />
+        <item itemvalue="Application.Binaerdarstellung" />
+        <item itemvalue="Application.Farbe" />
         <item itemvalue="Application.ProzentualeErhoehung" />
         <item itemvalue="Application.Wurzeltest" />
-        <item itemvalue="Application.Stromrechnung" />
       </list>
     </recent_temporary>
   </component>
