@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: Stromrechnung">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Binaerdarstellung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Farbe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" afterDir="false" />
+    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahldarstellung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AufsteigendeZahl">
+  <component name="RunManager" selected="Application.Zahlenspielerei">
     <configuration name="AufsteigendeZahl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.AufsteigendeZahl" />
       <module name="EPR" />
@@ -99,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wurzeltest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Wurzeltest" />
+    <configuration name="Zahlenspielerei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Zahlenspielerei" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zahlenspielerei" />
         <item itemvalue="Application.AufsteigendeZahl" />
         <item itemvalue="Application.Binaerdarstellung" />
         <item itemvalue="Application.Farbe" />
         <item itemvalue="Application.ProzentualeErhoehung" />
-        <item itemvalue="Application.Wurzeltest" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660563805509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei">
+      <created>1660741517981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660741517981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aufgabe: Stromrechnung" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: Stromrechnung" />
+    <MESSAGE value="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei" />
   </component>
 </project>
