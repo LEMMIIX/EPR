@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahldarstellung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/AufsteigendeZahl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahlenspielerei.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660741517981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei">
+      <created>1660832134624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660832134624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei">
+      <created>1660832148376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660832148376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aufgabe: Stromrechnung" />
     <MESSAGE value="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: AufsteigendeZahl, Binaerdarstellung, Farbe, Zahlenspielerei" />
+    <MESSAGE value="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei" />
   </component>
 </project>
