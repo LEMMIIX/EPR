@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: VerschiedeneZiffern&#10;Änderung Aufgabe: Zahldarstellung">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/VerschiedeneZiffern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic/Wurzelberechnen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic/Zahldarstellung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic/Zahldarstellung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VerschiedeneZiffern">
-    <configuration name="AufsteigendeZahl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.AufsteigendeZahl" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Fibonacci" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -60,6 +59,19 @@
     </configuration>
     <configuration name="VerschiedeneZiffern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.VerschiedeneZiffern" />
+      <module name="EPR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wurzelberechnen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Wurzelberechnen" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -97,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zahlenspielerei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Zahlenspielerei" />
-      <module name="EPR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Wurzelberechnen" />
         <item itemvalue="Application.VerschiedeneZiffern" />
         <item itemvalue="Application.ZahlUmdrehen" />
         <item itemvalue="Application.Zahldarstellung" />
-        <item itemvalue="Application.Zahlenspielerei" />
-        <item itemvalue="Application.AufsteigendeZahl" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660904462871</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aufgabe: VerschiedeneZiffern&#10;Änderung Aufgabe: Zahldarstellung">
+      <created>1660907559258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660907559258</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
