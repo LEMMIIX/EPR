@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: Wurzelberechnen, Fibonacci">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/Farbe.java" afterDir="false" />
+    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: Farbe Object Oriented&#10;New Package: ObjectOriented">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imperative/AbsteigendeZahl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imperative/FibonacciIterativ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imperative/GleicheBuchstaben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imperative/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Imperative/Quersumme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/RationaleZahl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectOriented/Farbe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectOriented/Farbe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Farbe">
+  <component name="RunManager" selected="Application.FibonacciIterativ">
+    <configuration name="AbsteigendeZahl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imperative.AbsteigendeZahl" />
+      <module name="EPR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imperative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Farbe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.Farbe" />
       <module name="EPR" />
@@ -57,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Fibonacci" />
+    <configuration name="FibonacciIterativ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imperative.FibonacciIterativ" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Imperative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerschiedeneZiffern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.VerschiedeneZiffern" />
+    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imperative.Palindrom" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Imperative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wurzelberechnen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Wurzelberechnen" />
+    <configuration name="Quersumme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imperative.Quersumme" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZahlUmdrehen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.ZahlUmdrehen" />
-      <module name="EPR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="Imperative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciIterativ" />
+        <item itemvalue="Application.Palindrom" />
+        <item itemvalue="Application.AbsteigendeZahl" />
+        <item itemvalue="Application.Quersumme" />
         <item itemvalue="Application.Farbe" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Wurzelberechnen" />
-        <item itemvalue="Application.VerschiedeneZiffern" />
-        <item itemvalue="Application.ZahlUmdrehen" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660997792622</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aufgabe: Farbe Object Oriented&#10;New Package: ObjectOriented">
+      <created>1661167176005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661167176005</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +210,7 @@
     <MESSAGE value="Aufgabe: Zahldarstellung&#10;Änderung Aufgabe: AufsteigendeZahl, Zahlenspielerei" />
     <MESSAGE value="Aufgabe: VerschiedeneZiffern&#10;Änderung Aufgabe: Zahldarstellung" />
     <MESSAGE value="Aufgabe: Wurzelberechnen, Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: Wurzelberechnen, Fibonacci" />
+    <MESSAGE value="Aufgabe: Farbe Object Oriented&#10;New Package: ObjectOriented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: Farbe Object Oriented&#10;New Package: ObjectOriented" />
   </component>
 </project>

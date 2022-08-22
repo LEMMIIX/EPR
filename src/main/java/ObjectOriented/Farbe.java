@@ -34,7 +34,7 @@ public class Farbe {
     }
 
     public String gibAlsText() {
-        return new String("(" + red + ", " + green + ", " + blue + ")");
+        return "(" + red + ", " + green + ", " + blue + ")";
     }
 
     public static void main(String[] args) {
