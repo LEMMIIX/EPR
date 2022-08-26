@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: FeldRotieren&#10;New Package: Arrays">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/FelderMischen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/HaeufigstesWort.java" afterDir="false" />
+    <list default="true" id="3a16b2fe-db14-4e34-a9a0-6743b0332248" name="Changes" comment="Aufgabe: FelderMischen, HaeufigstesWort">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/MatrixDrehen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FelderMischen">
+  <component name="RunManager" selected="Application.MatrixDrehen">
     <configuration name="FeldRotieren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.FeldRotieren" />
       <module name="EPR" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciIterativ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Imperative.FibonacciIterativ" />
+    <configuration name="GleicheBuchstaben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imperative.GleicheBuchstaben" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GleicheBuchstaben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Imperative.GleicheBuchstaben" />
+    <configuration name="MatrixDrehen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MatrixDrehen" />
       <module name="EPR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Imperative.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixDrehen" />
         <item itemvalue="Application.FelderMischen" />
         <item itemvalue="Application.FeldRotieren" />
         <item itemvalue="Application.GleicheBuchstaben" />
         <item itemvalue="Application.RationaleZahlTest" />
-        <item itemvalue="Application.FibonacciIterativ" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661347216291</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Aufgabe: FelderMischen, HaeufigstesWort">
+      <created>1661432784459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661432784459</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +236,7 @@
     <MESSAGE value="Aufgabe: RationaleZahl, Quersumme, Palindrom, GleicheBuchstaben, FibonacciIterativ, AbsteigendeZahl&#10;New Package: Imperative" />
     <MESSAGE value="Aufgabe: RationaleZahlTest" />
     <MESSAGE value="Aufgabe: FeldRotieren&#10;New Package: Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: FeldRotieren&#10;New Package: Arrays" />
+    <MESSAGE value="Aufgabe: FelderMischen, HaeufigstesWort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe: FelderMischen, HaeufigstesWort" />
   </component>
 </project>
