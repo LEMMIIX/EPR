@@ -23,6 +23,11 @@ public class Stromrechnung {
         gPreis2 = (int) (gPreis2 + vPreis2 + 0.5f);
         gPreis2 = gPreis2 / 100f;
 
-        System.out.println(gPreis1 < gPreis2 ? gPreis1 : gPreis2);
+
+        //< > == <= >=
+        System.out.println(gPreis1 > gPreis2
+                                        ? gPreis2
+                                        : gPreis1);
+
     }
 }

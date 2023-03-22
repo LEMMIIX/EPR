@@ -6,6 +6,7 @@ public class AufsteigendeZahl {
         //      (1)
         //(1) einfachster Fall/aufsteigend, wenn Methode bis zum Ende läuft
     }
+
     public static void main(String[] args) {
         System.out.println(istAufsteigend(6734));
         System.out.println(istAufsteigend(1234));
